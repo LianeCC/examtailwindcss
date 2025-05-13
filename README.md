@@ -18,7 +18,7 @@ La section Hero comprend
 
 1. Clonez le repository
 ```bash
-git clone [url-du-repo]
+git clone https://github.com/LianeCC/examtailwindcss.git
 ```
 
 2. Installez les dépendances
